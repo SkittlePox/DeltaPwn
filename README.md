@@ -1,5 +1,7 @@
 # DeltaPwn
 A js bot that can solve the multiple choice questions on the website http://www.deltamath.com
+
+[Here](https://www.youtube.com/watch?v=_EyMsPLFkGs) is a video of DentalPwn in action.
 # Usage
 To use DeltaPwn, abreviated Dpwn:
 

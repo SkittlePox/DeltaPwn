@@ -5,7 +5,7 @@ A PROOF OF CONCEPT js bot that can solve the multiple choice questions on the we
 
 [Here](https://www.youtube.com/watch?v=_EyMsPLFkGs) is a video of DeltaPwn in action.
 # Usage
-To use DeltaPwn, abreviated Dpwn:
+To use DeltaPwn, abbreviated Dpwn:
 
 1. Navigate to http://www.deltamath.com and login
 2. Navigate to a multiple choice quiz
